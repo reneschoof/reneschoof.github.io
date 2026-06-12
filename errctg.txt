@@ -1,0 +1,20 @@
+p.222 The point indicated by $Q$ in fig.1  is not correct.
+
+p.225 line -5 such that E(F_p) ...
+
+p.229 between lines 4 and 5:
+$$
+{{p+q\delta}\over{r+s\delta}}\,=\,{{b+\sqrt{\Delta}}\over{2p}}
+$$
+
+p.230  $z_{i+1}=z_{i-1}-qz_i$
+
+$q=\left[{{{\rm Re},\zeta_{i-1}}\over{{\rm Re},\zeta_i}}\right]$
+
+p.231 $w\not=0$.
+
+p.232 {{{\rm Re},\zeta_{i-1}}\over{{\rm Re},\zeta_i}}
+
+p.234 line -8 $p'$ should be $p$
+
+p.235 line -9 ... is a symmetric ...
