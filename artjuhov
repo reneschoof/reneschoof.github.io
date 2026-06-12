@@ -1,0 +1,11 @@
+p.102. It is not true that Artjuhov proposed this test in 1966/1967.
+
+I thank Keith Conrad for pointing this out:
+
+The cited paper  has nothing at all like the Miller--Rabin test in it.  But Theorem E on p. 362 is really close to the Solovay--Strassen test. Artjuhov published another paper in Acta Arithmetica the following year, called "Certain possibilities for a converse to the little Fermat theorem," reviewed on MathSciNet at MR 0223296 (36 #6344), and while that is slightly more aligned with the Miller--Rabin test, the idea of looking at a sequence of powers a^k, a^(2k), ..., a^(2^{e-1}k) mod n to see if any of them ever become -1 mod n is not there. The bulk of the paper is concerned with congruences of the form a^m = 1 mod n, not a^m = -1 mod n, except briefly when he mentions a^((n-1)/2) = -1 mod n.
+
+I copied, without checking, the citation from the book by  Crandall and Pomerance.
+
+p.105.In the first line of Theorem 2.2 delete the word "composite".
+
+I thank Pedja Terzic for pointing this out.

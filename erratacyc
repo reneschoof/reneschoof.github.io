@@ -1,0 +1,18 @@
+On page 426, line 10 from below: 
+   the root discriminant is 2^(67/36)3^(3/2) rather than 2^(67/35)3^(3/2)
+On page 430, line 5 from below:  outside $\overline{\pi}$ should be
+   at $\overline{\pi}$.
+On page 440. the proof of Prop.5.3. The abelian variety in line 8
+   from below  should NOT be  A^{dual}/G_1^{\vee}, but rather
+   A^{dual}/G' where G' = ker(A[2^n]^{\vee} ---> G_1^{\vee})
+On page 443. In the statement of Prop.6.3, the field $K'$ is defined
+   as $K'=K(E(\overline{K}))$
+On page 443. lines 3-4 of statement of Prop.6.3: in $E(\overline{K})$
+On page 443. displayed formula in statement of Prop.6.3: $K_a'[X]$
+   rather than $K_a[X]$.
+On page 443. line +7. Roman L should be script L.
+On page 446. End of first paragraph of the proof. the field $K'_a$ is
+   an unramified degree $p^2$ extension (rather than degree $p$)
+On page 446. Line 9 of 1st paragraph: action of ${\rm Gal}(\overline{K}/K')$
+    
+

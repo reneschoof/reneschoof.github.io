@@ -1,0 +1,8 @@
+Proof of Prop. 4.1:
+
+Herbrand's theorem implies that the eigenspace
+Cl(Z[zeta_p])(omega^-1) is trivial. Leopoldt's
+Spiegelungsatz implies then that the eigenspace
+Cl(Z[zeta_p])(omega^2)  is also trivial.
+
+In a few places in the proof this is used.
