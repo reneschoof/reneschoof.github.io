@@ -1,0 +1,11 @@
+p.51, line +17  It is not true that the non-trivial extension classes 
+coming from $\mu_p(R)$ are isomorphic to the group scheme $V$.
+They are isomorphic to a group scheme $W$ that is constructed as follows:
+
+Applying the functor Hom(-,\mu_p) to the exact sequence 
+0   ->  Z/pZ ->   Z/p^2Z ->  Z/pZ -> 0 we obtain an injective homomorphism
+ Hom(Z/pZ, \mu_p) -> Ext^1(Z/pZ,\mu_p). The group Hom(Z/pZ, \mu_p)  has order $p$
+and any non-zero element gives rise to a non-trivial extension
+ 0  ->  mu_p ->   W  ->  Z/pZ ->  0. The Galois group acts trivially on the points of $W$. 
+Since $W$ is not killed by $p$, the proof of Proposition 2.2 (ii) is unaffected.
+
